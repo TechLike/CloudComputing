@@ -1,5 +1,5 @@
 ---
 applications:
 - name: practical-bhabha
-  memory: 300M
+  memory: 512M
   instances: 1
